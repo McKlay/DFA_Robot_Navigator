@@ -56,7 +56,7 @@ class RobotApp:
         self.canvas.bind("<Button-3>", self.set_accept_cell)
 
          # Load and resize the robot image
-        self.robot_img_raw = Image.open("image.jpg")
+        self.robot_img_raw = Image.open("my_robot.jpg")
         self.robot_img_raw = self.robot_img_raw.resize((CELL_SIZE - 20, CELL_SIZE - 20))
         self.robot_img = ImageTk.PhotoImage(self.robot_img_raw)
 
