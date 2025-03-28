@@ -64,7 +64,7 @@ python main.py
 
 | Grid View | DFA Graph |
 |-----------|-----------|
-| ![my_robot](my_robot.jpg) | *(Output Graph/dfa_graph_2.png)* |
+| ![my_robot](my_robot.jpg) | *(dfa_graph.png)* |
 
 ---
 
