@@ -4,13 +4,13 @@ A visual simulation of a robot navigating a 5x5 grid based on a **Deterministic 
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Customizable start and accept states
-- 🔁 DFA logic implementation with transition loopbacks for invalid moves
-- 🧠 Reads DFA Transition Table from Excel (`.xlsx`)
-- 📊 Graphical output of state transitions
-- 🧪 Built-in testing module (`test_dfa.py`)
+- Customizable start and accept states
+- DFA logic implementation with transition loopbacks for invalid moves
+- Reads DFA Transition Table from Excel (`.xlsx`)
+- Graphical output of state transitions
+- Built-in testing module (`test_dfa.py`)
 
 ---
 
@@ -31,7 +31,7 @@ dfa_robot_navigatorv2/
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Running the Simulation
+## Running the Simulation
 
 ```bash
 python main.py
@@ -68,7 +68,7 @@ python main.py
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - [ ] Real-time robot animation
 - [ ] GUI using Tkinter or PyQt
@@ -77,7 +77,7 @@ python main.py
 
 ---
 
-## 🧠 Author
+## Author
 
 **Clay Mark Sarte**  
 Passionate about AI, robotics, and software that makes machines think.
